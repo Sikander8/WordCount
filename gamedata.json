@@ -1,12 +1,12 @@
 {"levels":
   [{"words":
-    [{"word":"grapes","hint":""},{"word":"page","hint":""},{"word":"rage","hint":""},{"word":"pea","hint":""},{"word":"age","hint":""}]},
+    [{"word":"grape","hint":""},{"word":"page","hint":""},{"word":"rage","hint":""},{"word":"pea","hint":""},{"word":"age","hint":""}]},
   {"words":
-      [{"word":"CREATE","hint":""},{"word":"CARE","hint":""},{"word":"RATE","hint":""},{"word":"TEAR","hint":""},{"word":"ACE","hint":""},{"word":"EAT","hint":""}]},
+      [{"word":"create","hint":""},{"word":"care","hint":""},{"word":"rate","hint":""},{"word":"tear","hint":""},{"word":"ace","hint":""},{"word":"eat","hint":""}]},
   {"words":
-      [{"word":"BRAVED","hint":""},{"word":"DARE","hint":""},{"word":"RAVE","hint":""},{"word":"BRAVE","hint":""},{"word":"READ","hint":""},{"word":"BEAR","hint":""}]},
+      [{"word":"braved","hint":""},{"word":"dare","hint":""},{"word":"rave","hint":""},{"word":"brave","hint":""},{"word":"read","hint":""},{"word":"bear","hint":""}]},
 {"words":
-      [{"word":"FLOORED","hint":""},{"word":"FLOOR","hint":""},{"word":"REDO","hint":""},{"word":"FLED","hint":""},{"word":"RODE","hint":""},{"word":"ROLE","hint":""},{"word":"DOLE","hint":""}]},
+      [{"word":"floored","hint":""},{"word":"floor","hint":""},{"word":"redo","hint":""},{"word":"fled","hint":""},{"word":"rode","hint":""},{"word":"role","hint":""},{"word":"dole","hint":""}]},
 {"words":
-      [{"word":"TRIGGER","hint":""},{"word":"RIG","hint":""},{"word":"TIRE","hint":""},{"word":"TRIE","hint":""},{"word":"RITE","hint":""},{"word":"TIGER","hint":""},{"word":"GRIT","hint":""}]}],
+      [{"word":"trigger","hint":""},{"word":"rig","hint":""},{"word":"tire","hint":""},{"word":"trie","hint":""},{"word":"rite","hint":""},{"word":"tiger","hint":""},{"word":"grit","hint":""}]}],
   "name":"MyGameData","hideFlags":0}
