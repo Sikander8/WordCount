@@ -1,6 +1,17 @@
 {"levels":
   [{"words":
-    [{"word":"sasy","hint":"Opposite of hard."},{"word":"say","hint":"The verb of speech."},{"word":"sea","hint":"Large body of water."},{"word":"yes","hint":"Affirmative."}]},
+    [{"word":"GRAPE","hint":""},{"word":"PAGE","hint":""},{"word":"RAGE","hint":""},{"word":"PEA","hint":""}
+    ,{"word":"AGE","hint":""}]},
     {"words":
-      [{"word":"lapp","hint":" race car rounds"},{"word":"nap","hint":"saying no in german"},{"word":"pan","hint":"old tv input type"},{"word":"pan","hint":"a broad, shallow container of metal, used in various forms for frying and baking."},{"word":"plan","hint":"thinking to achieve something"}]}],
+      [{"word":"CREATE","hint":""},{"word":"CARE","hint":""},{"word":"RATE","hint":""},{"word":"TEAR","hint":""},{"word":"ACE","hint":""}
+      ,{"word":"EAT","hint":""}]}],
+  {"words":
+      [{"word":"BRAVED","hint":""},{"word":"DARE","hint":""},{"word":"RAVE","hint":""},{"word":"BRAVE","hint":""},{"word":"READ","hint":""}
+      ,{"word":"BEAR","hint":""}]}],
+{"words":
+      [{"word":"FLOORED","hint":""},{"word":"FLOOR","hint":""},{"word":"REDO","hint":""},{"word":"FLED","hint":""},{"word":"RODE","hint":""}
+      ,{"word":"DOLE","hint":""},{"word":"ROLE"","hint":""}]}],
+{"words":
+      [{"word":"TRIGGER","hint":""},{"word":"RIG","hint":""},{"word":"TIRE","hint":""},{"word":"TRIE","hint":""},{"word":"RITE","hint":""}
+      ,{"word":"TIGER","hint":""},{"word":"GRIT","hint":""}]}],
   "name":"MyGameData","hideFlags":0}
